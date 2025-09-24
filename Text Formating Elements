@@ -1,11 +1,30 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
  <head>
      <meta charset="UTF-8"
-     <meta name="viewport" content="width=device-width, initial scale=1.0"
+     <meta name="viewport" content="width=device-width, initial scale=1.0">
      <title> Document </title>
-<PRE> Preformated </PRE>   
-<STRIKE> Hello World </STRIKE>
-<p> H <SUB> 2 </SUB> O </p>
+<mark>Hello World<mark>
+<p><h1>Hello world</h1></p>
+    <b><h1>Text Formatting Elements</h1></b>
+    <b><h2>Bold Text (using &lt;b&gt;)</h2></b>
+    <strong>Important Text (using &lt; strong&gt;)</strong>
+    <i>italic text (using &lt; strong&gt;)</i>
+    <em>Emphasized text (using &lt;em&gt;)</em>
+    <u>Underlined text (using &lt;u&gt;)</u>
+    <mark>Highlighted Text (using &lt;mark&gt;)</mark>
+    <small>small text (using &lt;small&gt;)</small>
+    H <sub>2</sub>O ? Subscript example
+    H <sup>2</sup>O ?
+    <strong><h1>Special Characters and Entities</h1></strong>
+    Less than:&lt;
+    greater than:&gt;
+    Ampersand:&amp;
+    Single quote:&apos;Hello&apos;
+    Double quote:&quot;Hello&quot;
+    Asterick:&lowast;
+    Cent Sign:&cent;
+
+
  </head>   
 </html>
